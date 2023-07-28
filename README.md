@@ -13,6 +13,6 @@
 The project involves the creation of Python classes for each scheduling algorithm and simulates their behavior with a dataset of processes. The analysis provides insights into the performance of each algorithm, such as wait times and execution times.
 
 ## How to Run
-Clone the repository.
-Ensure you have the necessary Python packages installed (openpyxl).
-Run the main.py script to execute the scheduling algorithms on the provided dataset.
+- Clone the repository.
+- Ensure you have the necessary Python packages installed (openpyxl).
+- Run the main.py script to execute the scheduling algorithms on the provided dataset.
